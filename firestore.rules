@@ -1,0 +1,9 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // 가족 공유 인벤토리 문서만 읽기/쓰기 허용
+    match /inventory/shared {
+      allow read, write: if true;
+    }
+  }
+}

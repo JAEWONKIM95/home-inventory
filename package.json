@@ -1,0 +1,23 @@
+{
+  "name": "home-inventory",
+  "version": "1.0.0",
+  "description": "방-가구-칸 구조로 집안 물건을 정리하고 평면도에서 찾는, Firestore 실시간 동기화 웹 앱",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "firebase": "^11.6.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.1.4",
+    "vite": "^6.2.6"
+  }
+}
