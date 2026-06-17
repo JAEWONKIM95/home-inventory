@@ -10,10 +10,9 @@
 ## 📸 스크린샷
 
 
-| 물건 지도(평면도) | 방 내부 | 달력 |
+| 물건 지도(평면도) | 보관소 내부 | 달력 |
 |:--:|:--:|:--:|
 | ![물건 지도](screenshots/1-map.png) | ![보관소 내부](screenshots/2-room.png) | ![달력](screenshots/3-calendar.png) |
-부
 ---
 ---
 
